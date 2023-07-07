@@ -25,7 +25,7 @@ let updateTimer;
 
 const music_list = [
     {
-        img: 'images/bloody-sweet.webp',
+        img: 'images/bloody-sweet.jpg',
         name: 'Bloody-sweet',
         artist: 'Anirudh',
         music:  'musics/Bloody Sweet(PagalWorld.com.se).mp3',
